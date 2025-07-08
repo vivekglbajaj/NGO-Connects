@@ -1,0 +1,4 @@
+DATASOURCE_URL=jdbc:mysql://localhost:3306/streetlife
+DATASOURCE_USER=root
+DATASOURCE_PASSWORD=Vivek@123
+FRONTEND_URL=http://localhost:3000

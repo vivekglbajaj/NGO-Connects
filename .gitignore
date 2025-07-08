@@ -1,0 +1,5 @@
+NGO-Connects/frontend/node_modules/
+NGO-Connects/backend/target/
+*.log
+.env
+.DS_Store
